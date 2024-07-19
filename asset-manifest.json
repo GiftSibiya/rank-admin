@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rank-admin/static/css/main.5daa1d40.css",
+    "main.js": "/rank-admin/static/js/main.a001a499.js",
+    "static/media/quantum1.jpg": "/rank-admin/static/media/quantum1.da51a83931e10086834a.jpg",
+    "index.html": "/rank-admin/index.html",
+    "main.5daa1d40.css.map": "/rank-admin/static/css/main.5daa1d40.css.map",
+    "main.a001a499.js.map": "/rank-admin/static/js/main.a001a499.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5daa1d40.css",
+    "static/js/main.a001a499.js"
+  ]
+}
